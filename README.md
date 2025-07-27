@@ -1,6 +1,6 @@
 <p align="center">
   <img src="20250727_1131_Bright White Star_remix_01k167zv6jf6er6ky3aeex7xsg.png" alt="logo" width=40%>
-</p>p>
+</p>
 
 # CLFits: FITS Header Editor
 
