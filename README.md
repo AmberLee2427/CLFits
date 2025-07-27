@@ -3,8 +3,8 @@
 A command-line tool for viewing and editing the headers of FITS files.
 
 [![PyPI Version](https://img.shields.io/pypi/v/clfits.svg)](https://pypi.org/project/clfits)
-[![CI Status](https://github.com/AmberLee2427/CLFits/actions/workflows/ci.yml/badge.svg)](https://github.com/AmberLee2427/CLFits/actions/workflows/ci.yml)
 [![Test Coverage](https://codecov.io/gh/AmberLee2427/CLFits/branch/main/graph/badge.svg)](https://codecov.io/gh/AmberLee2427/CLFits)
+[![CI Status](https://github.com/AmberLee2427/CLFits/actions/workflows/ci.yml/badge.svg)](https://github.com/AmberLee2427/CLFits/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Installation
