@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="var4.png" alt="logo" width=40%>
+</p>p>
+
 # CLFits: FITS Header Editor
 
 A command-line tool for viewing and editing the headers of FITS files.
