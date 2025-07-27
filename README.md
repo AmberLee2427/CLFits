@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="20250727_1131_Bright White Star_remix_01k167zv6jf6er6ky3aeex7xsg.png" alt="logo" width=40%>
+  <img src="2025_07_27_0s4_Kleki.png" alt="logo" width=40%>
 </p>
 
 # CLFits: FITS Header Editor
